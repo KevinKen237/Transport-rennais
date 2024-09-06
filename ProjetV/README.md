@@ -16,8 +16,9 @@ Ce tableau de bord interactif offre une analyse approfondie de l'utilisation des
 ```shell
 pip install -r requirements.txt
 ```
+2. Penssez à dézipper le fichier data.zip
 
-2. Le dashboard est disponible en version statique avec une sortie HTML et en version dynamique avec la création d'un serveur localhost temporaire (cela affecte uniquement la visualisation du graphique en dernière page). Chacune des sorties s'obtient avec une commande spécifique à exécuter dans un terminal ouvert à l'emplacement du dossier : 
+3. Le dashboard est disponible en version statique avec une sortie HTML et en version dynamique avec la création d'un serveur localhost temporaire (cela affecte uniquement la visualisation du graphique en dernière page). Chacune des sorties s'obtient avec une commande spécifique à exécuter dans un terminal ouvert à l'emplacement du dossier : 
     * Pour la sortie html : lancer la commande
     ```shell
     python Transport_Rennais.py
